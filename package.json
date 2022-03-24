@@ -1,0 +1,9 @@
+{
+  "name": "SkillSquads",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "formik": "^2.2.9",
+    "yup": "^0.32.11"
+  }
+}
