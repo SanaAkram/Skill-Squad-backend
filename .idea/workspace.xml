@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="882851f8-cd4c-40b9-9910-0a598d28977f" name="Changes" comment="backend +frontend">
-      <change afterPath="$PROJECT_DIR$/frontend/.idea/Skill Squad.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/Components/accountBox/signup.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/modern-react-login" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/Components/accountBox/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/Components/accountBox/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/Components/accountBox/loginForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/Components/accountBox/loginForm.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/Components/accountBox/signupForm.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +29,7 @@
         <entry key="$PROJECT_DIR$/skillsquadfrontend" value="backend+frontend" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -56,6 +47,10 @@
         <option name="url" value="https://github.com/SanaAkram/Skill-Squad.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/frontend/src/Components/accountBox/accountContext.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/frontend/src/Components/accountBox/loginForm.jsx" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -210,6 +205,7 @@
       <workItem from="1647765492635" duration="376000" />
       <workItem from="1647785278347" duration="5987000" />
       <workItem from="1647957780482" duration="62660000" />
+      <workItem from="1648118282962" duration="1369000" />
     </task>
     <task id="LOCAL-00001" summary="backend install">
       <created>1646495848663</created>
@@ -232,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647716342019</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="backend +frontend">
+      <created>1648118433560</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648118433560</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
